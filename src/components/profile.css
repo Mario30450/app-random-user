@@ -1,0 +1,24 @@
+.containerProfile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #7f8c8d;
+}
+
+.pictureProfile {
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.buttom {
+  border: black solid 1px;
+  background: grey;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 5px;
+  color: blue;
+  text-decoration: none;
+}
